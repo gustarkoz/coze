@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+markdown
+html2docx
+python-docx
+jinja2
+beautifulsoup4
+openpyxl
+playwright
